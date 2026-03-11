@@ -270,4 +270,3 @@ like breaches which may only occur a few dozen times in the dataset.
 
 
 
-python main.py --mode train --db-url "postgresql://infraon:infinity#123@10.0.4.211:5432/metrics" --device DEV-RTR-1001 --interface Gi0 --window 24 --horizon 6 --epochs 100
